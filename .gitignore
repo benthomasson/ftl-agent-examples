@@ -1,0 +1,6 @@
+.env
+__pycache__
+/modules/*
+output.py
+output.txt
+playbook.yml
