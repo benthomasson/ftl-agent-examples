@@ -7,8 +7,13 @@ This repository contains examples of how to use [ftl-agent](http://github.com/be
 Getting started
 ---------------
 
+
+```console
     pip install -r requirements.txt
     ./scripts/get_modules.py
+    cd hello-world
+    ./run.sh
+```
 
 
 Examples
@@ -17,5 +22,4 @@ Examples
 * hello-world
 * ui
 * shell
-
 
