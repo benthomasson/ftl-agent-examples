@@ -31,11 +31,11 @@ Finally, once the message is sent, I'll use the complete tool to mark the task a
 Thought: To send a message on Slack, I need to use the `slack` tool with the appropriate message parameter.                                               
                                                                                                                                                           
 Code:                                                                                                                                                     
-```py                                                                                                                                                     
+\`\`\`py                                                                                                                                                     
 message_sent = slack(msg="Hello from the Linux machine!")                                                                                                 
 print(f"Message sent? {message_sent}")                                                                                                                    
 complete()                                                                                                                                                
-```                                                                                                                                                       
+\`\`\`                                                                                                                                                       
  ─ Executing parsed code: ─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────── 
   message_sent = slack(msg="Hello from the Linux machine!")                                                                                               
   print(f"Message sent? {message_sent}")                                                                                                                  
