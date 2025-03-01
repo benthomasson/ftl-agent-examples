@@ -7,11 +7,11 @@ This example sends a message to a Slack channel.
 
 ```console
 
-ftl-agent --tools-files ../tools/tools.py \
+ftl-agent --tools-files ../../tools/tools.py \
           -t complete \
           -t slack \
           -s "A linux machine" \
-          -M ../modules \
+          -M ../../modules \
           -i inventory.yml \
           -p "Send message to Slack, and call complete when done" \
           -e "slack_token=${SLACK_TOKEN}"
