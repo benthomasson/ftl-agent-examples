@@ -12,6 +12,7 @@ ftl-agent --tools-files ../tools/tools.py \
           -t slack \
           -s "A linux machine" \
           -M ../modules \
+          -i inventory.yml \
           -p "Send message to Slack, and call complete when done" \
           -e "slack_token=${SLACK_TOKEN}"
 ```
@@ -23,6 +24,7 @@ ftl-agent --tools-files ../tools/tools.py \
 * `-t slack` - Enable the slack tool.
 * `-s "A linux machine"` - This is the system design that the agent is working to automate.
 * `-M ../modules` - the path to your automation modules.
+* `-i inventory` - An inventory of local or remote hosts to manage with this agent.
 * `-p "Send message to Slack, and call complete when done"` - The problem statement for your agent to automate.
 * `-e "slack_token=${SLACK_TOKEN}"` - Secrets should be passed as environment variables to the agent.
 
