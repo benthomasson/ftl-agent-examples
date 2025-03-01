@@ -4,3 +4,4 @@ __pycache__
 output.py
 output.txt
 playbook.yml
+.DS_Store
