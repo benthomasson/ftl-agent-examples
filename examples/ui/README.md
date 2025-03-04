@@ -10,5 +10,6 @@ ftl-agent-ui --tools-files ../../tools/tools.py \
           -e "discord_token=${DISCORD_TOKEN}"
 ```
 
+Demo:
 
 https://raw.githubusercontent.com/benthomasson/ftl-agent-examples/main/examples/ui/assets/ftl-agent-ui.mov
