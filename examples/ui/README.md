@@ -11,4 +11,4 @@ ftl-agent-ui --tools-files ../../tools/tools.py \
 ```
 
 
-![demo](assets/ftl-agent-ui.mov)
+https://github.com/benthomasson/ftl-agent-examples/raw/refs/heads/main/examples/ui/assets/ftl-agent-ui.mov
