@@ -12,5 +12,6 @@ ftl-agent-ui --tools-files ../../tools/tools.py \
 
 Demo:
 
-https://github.com/user-attachments/assets/2ab58c24-16dc-41c7-9992-c73ec7183dd0
+
+https://github.com/user-attachments/assets/78d5c157-1518-43ec-8368-892514cc74b7
 
