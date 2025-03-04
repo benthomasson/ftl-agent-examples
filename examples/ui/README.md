@@ -12,4 +12,5 @@ ftl-agent-ui --tools-files ../../tools/tools.py \
 
 Demo:
 
-https://raw.githubusercontent.com/benthomasson/ftl-agent-examples/main/examples/ui/assets/ftl-agent-ui.mov
+https://github.com/user-attachments/assets/2ab58c24-16dc-41c7-9992-c73ec7183dd0
+
